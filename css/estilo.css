@@ -1,8 +1,8 @@
 body{
-    background-color: black;
+    background-color: rgb(28, 26, 29);
     color: azure;
 }
 h1{
     font-size: larger;
-    color: azure;
+    color: rgb(255, 255, 255);
 }
